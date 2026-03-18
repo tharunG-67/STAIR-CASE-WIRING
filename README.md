@@ -1,7 +1,6 @@
 ### Name:Dinesh Kumar Rajendran
 ### Reg no:212224250005
 
-# EXP-2
 # EXPT NO: 2	STAIR CASE WIRING                     
 
  
