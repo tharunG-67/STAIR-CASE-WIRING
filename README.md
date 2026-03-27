@@ -1,5 +1,5 @@
-### Name:Dinesh Kumar Rajendran
-### Reg no:212224250005
+### Name:Tharun G
+### Reg no:212224250019
 
 # EXPT NO: 2	STAIR CASE WIRING                     
 
